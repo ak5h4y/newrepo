@@ -1,1000 +1,348 @@
- 1135  vim 1201D.cpp
- 1136  g++ 1201D.cpp
- 1137  ./a.out
- 1138  vim 1201D.cpp
- 1139  g++ 1201D.cpp
- 1140  ./a.out
- 1141  vim 1201D.cpp
- 1142  g++ 1201D.cpp
- 1143  ./a.out
- 1144  vim 1201D.cpp
- 1145  g++ 1201D.cpp
- 1146  vim 1201D.cpp
- 1147  g++ 1201D.cpp
- 1148  vim 1201D.cpp
- 1149  g++ 1201D.cpp
- 1150  vim 1201D.cpp
- 1151  g++ 1201D.cpp
- 1152  ./a.out
- 1153  vim 1201D.cpp
- 1154  ls -la
- 1155  cd
- 1156  ls -la
- 1157  cat .aa.txt
- 1158  clear
- 1159  history
- 1160  sudo update-pciids
- 1161  lspci
- 1162  lspci -v
- 1163  lspci -v | less
- 1164  lspci | grep -i --color 'vga\|3d\|2d'
- 1165  ls
- 1166  ls -la
- 1167  chmod 777 hotel.odt
- 1168  ls
- 1169  ls -la
- 1170  cd code
- 1171  vim atcoderdpa.cpp
- 1172  g++ atcoderdpa.cpp
- 1173  ./a.out
- 1174  cd code
- 1175  ls
- 1176  vim atcoderdpc.cpp
- 1177  g++ atcoderdpc.cpp
- 1178  vim atcoderdpc.cpp
- 1179  g++ atcoderdpc.cpp
- 1180  ./a.out
- 1181  fcrackzip -c a -p aaaaaa split.zip
- 1182  sudo apt install fcrackzip
- 1183  cd Desktop
- 1184  fcrackzip -c a -p aaaaaa split.zip
- 1185  fcrackzip -c a -p aaaaaaaa split.zip
- 1186  fcrackzip -u split.zip
- 1187  cd code
- 1188  g++ atcoderdpc.cpp
- 1189  ./a.out
- 1190  g++ atcoderdpc.cpp
- 1191  ./a.out
- 1192  g++ atcoderdpc.cpp
- 1193  ./a.out
- 1194  g++ atcoderdpc.cpp
- 1195  ./a.out
- 1196  cd code
- 1197  ls
- 1198  vim atcoderdpd.cpp
- 1199  g++ atcoderdpd.cpp
- 1200  vim atcoderdpd.cpp
- 1201  g++ atcoderdpd.cpp
- 1202  vim atcoderdpd.cpp
- 1203  g++ atcoderdpd.cpp
- 1204  ./a.out
- 1205  vim atcoderdpd.cpp
- 1206  g++ atcoderdpd.cpp
- 1207  ./a.out
- 1208  cd code
- 1209  cp atcoderdpd.cpp atcoderdpe.cpp
- 1210  vim atcoderdpe.cpp
- 1211  g++ atcoderdpd.cpp
- 1212  g++ atcoderdpe.cpp
- 1213  ./a.out
- 1214  vim atcoderdpe.cpp
- 1215  rm atcoderdpe.cpp
- 1216  cp atcoderdpd.cpp atcoderdpe.cpp
- 1217  vim atcoderdpe.cpp
- 1218  g++ atcoderdpe.cpp
- 1219  vim atcoderdpe.cpp
- 1220  g++ atcoderdpe.cpp
- 1221  vim atcoderdpe.cpp
- 1222  g++ atcoderdpe.cpp
- 1223  vim atcoderdpe.cpp
- 1224  g++ atcoderdpe.cpp
- 1225  ./a.out
- 1226  vim atcoderdpe.cpp
- 1227  rm atcoderdpe.cpp
- 1228  cp atcoderdpd.cpp atcoderdpe.cpp
- 1229  vim atcoderdpe.cpp
- 1230  g++ atcoderdpe.cpp
- 1231  vim atcoderdpe.cpp
- 1232  g++ atcoderdpe.cpp
- 1233  vim atcoderdpe.cpp
- 1234  g++ atcoderdpe.cpp
- 1235  ./a.out
- 1236  ls -la
- 1237  cat .aa.txt
- 1238  clear
- 1239  cd code
- 1240  vim atcoderdpf.cpp
- 1241  g++ atcoderdpf.cpp
- 1242  vim atcoderdpf.cpp
- 1243  g++ atcoderdpf.cpp
- 1244  vim atcoderdpf.cpp
- 1245  g++ atcoderdpf.cpp
- 1246  vim atcoderdpf.cpp
- 1247  g++ atcoderdpf.cpp
- 1248  vim atcoderdpf.cpp
- 1249  g++ atcoderdpf.cpp
- 1250  ./a.out
- 1251  vim atcoderdpf.cpp
- 1252  ./a.out
- 1253  g++ atcoderdpf.cpp
- 1254  ./a.out
- 1255  vim atcoderdpf.cpp
- 1256  g++ atcoderdpf.cpp
- 1257  ./a.out
- 1258  vim atcoderdpf.cpp
- 1259  g++ atcoderdpf.cpp
- 1260  ./a.out
- 1261  vim atcoderdpf.cpp
- 1262  g++ atcoderdpf.cpp
- 1263  ./a.out
- 1264  vim atcoderdpf.cpp
- 1265  g++ atcoderdpf.cpp
- 1266  ./a.out
- 1267  vim atcoderdpf.cpp
- 1268  g++ atcoderdpf.cpp
- 1269  ./a.out
- 1270  vim atcoderdpf.cpp
- 1271  g++ atcoderdpf.cpp
- 1272  ./a.out
- 1273  vim atcoderdpf.cpp
- 1274  g++ atcoderdpf.cpp
- 1275  ./a.out
- 1276  vim atcoderdpf.cpp
- 1277  g++ atcoderdpf.cpp
- 1278  ./a.out
- 1279  vim atcoderdpf.cpp
- 1280  g++ atcoderdpf.cpp
- 1281  ./a.out
- 1282  vim atcoderdpf.cpp
- 1283  g++ atcoderdpf.cpp
- 1284  ./a.out
- 1285  vim atcoderdpg.cpp
- 1286  g++ atcoderdpg.cpp
- 1287  vim atcoderdpg.cpp
- 1288  g++ atcoderdpg.cpp
- 1289  ./a.out
- 1290  vim atcoderdpg.cpp
- 1291  g++ atcoderdpg.cpp
- 1292  ./a.out
- 1293  vim atcoderdpg.cpp
- 1294  g++ atcoderdpg.cpp
- 1295  ./a.out
- 1296  vim atcoderdpg.cpp
- 1297  g++ atcoderdpg.cpp
- 1298  ./a.out
- 1299  vim atcoderdpg.cpp
- 1300  g++ atcoderdpg.cpp
- 1301  vim atcoderdpg.cpp
- 1302  g++ atcoderdpg.cpp
- 1303  ./a.out
- 1304  vim atcoderdph.cpp
- 1305  g++ atcoderdph.cpp
- 1306  vim atcoderdph.cpp
- 1307  g++ atcoderdph.cpp
- 1308  ./a.out
- 1309  vim atcoderdph.cpp
- 1310  g++ atcoderdph.cpp
- 1311  vim atcoderdph.cpp
- 1312  g++ atcoderdph.cpp
- 1313  ./a.out
- 1314  vim atcoderdph.cpp
- 1315  g++ atcoderdph.cpp
- 1316  ./a.out
- 1317  345263555
- 1318  cd code
- 1319  vim atcoderi.cpp
- 1320  g++ atcoderi.cpp
- 1321  vim atcoderi.cpp
- 1322  g++ atcoderi.cpp
- 1323  ./a.out
- 1324  vim atcoderi.cpp
- 1325  g++ atcoderi.cpp
- 1326  ./a.out
- 1327  vim atcoderi.cpp
- 1328  g++ atcoderi.cpp
- 1329  ./a.out
- 1330  vim atcoderi.cpp
- 1331  g++ atcoderi.cpp
- 1332  ./a.out
- 1333  vim atcoderi.cpp
- 1334  g++ atcoderi.cpp
- 1335  vim atcoderi.cpp
- 1336  g++ atcoderi.cpp
- 1337  ./a.ou
- 1338  ./a.out
- 1339  vim atcoderi.cpp
- 1340  ./a.ou
- 1341  g++ atcoderi.cpp
- 1342  ./a.out
- 1343  vim atcoderi.cpp
- 1344  g++ atcoderi.cpp
- 1345  ./a.out
- 1346  vim atcoderi.cpp
- 1347  g++ atcoderi.cpp
- 1348  ./a.out
- 1349  vim atcoderi.cpp
- 1350  g++ atcoderi.cpp
- 1351  ./a.out
- 1352  watch -n l 'upower -i /org/freedesktop/UPower/devices/battery_BAT0'
- 1353  watch -n 1 'upower -i /org/freedesktop/UPower/devices/battery_BAT0'
- 1354  upower -i /org/freedesktop/UPower/devices/battery_BAT0
- 1355  upower -i $(upower -e | grep 'BAT') | grep -E "state|to\ full|percentage"
- 1356  upower -i /org/freedesktop/UPower/devices/battery_BAT0
- 1357  upower -i /org/freedesktop/UPower/devices/battery_BAT1
- 1358  grep -E "state|to\ full|percentage"
- 1359  alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"'
- 1360  bat
- 1361  upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"
- 1362  alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT1| grep -E "state|to\ full|percentage"'
- 1363  bat
- 1364  sudo add-apt-repository ppa:linrunner/tlp
- 1365  sudo apt-get update
- 1366  sudo apt-get install upgrade
- 1367  sudo apt-get upgrade
- 1368  sudo add-apt-repository ppa:linrunner/tlp
- 1369  sudo apt-secure
- 1370  sudo apt-secure(8)
- 1371  clear
- 1372  [ 5 -lt 10 ]; echo $?
- 1373  -lt --l
- 1374  -lt --help
- 1375  [ 10 -lt 5 ]; echo $?
- 1376  $[ 10 -lt 5 ]; echo $?
- 1377  $ [ 10 -lt 5 ]; echo $?
- 1378  [ 10 -lt 5 ]; echo $?
- 1379  echo true
- 1380  [ 10 -ge 5 ]; echo $?
- 1381  [!false]; echo $?
- 1382  vi p.cpp
- 1383  g++ p.cpp -o p
- 1384  ./p
- 1385  cal
- 1386  sort --help
- 1387  tput 
- 1388  cup
- 1389  view
- 1390  man cat
- 1391  bat
- 1392  alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT1| grep -E "state|to\ full|percentage"'
- 1393  bat
- 1394  ls
- 1395  vim p.cpp
- 1396  g++ p.cpp
- 1397  ./a.out
- 1398  vim p.cpp
- 1399  ls -la
- 1400  cp .video_2019-10-06_03-50-41.mp4 a.mp4
- 1401  ls -la
- 1402  cp .video_2019-10-06_03-50-41.mp4 k.mp4
- 1403  cp .video_2019-10-06_03-50-41.mp4 .k.mp4
- 1404  vim test.c
- 1405  gcc test.c
- 1406  vim test.c
- 1407  gcc test.c
- 1408  ./a.out
- 1409  vim test.c
- 1410  gcc test.c
- 1411  ./a.out
- 1412  rm test.c
- 1413  vim test.cpp
- 1414  vim test1.cpp
- 1415  vim test2.cpp
- 1416  g++ test2.cpp
- 1417  ./a.out
- 1418  vim test2.cpp
- 1419  g++ test2.cpp
- 1420  ./a.out
- 1421  vim test2.cpp
- 1422  g++ test2.cpp
- 1423  ./a.out
- 1424  vim test2.cpp
- 1425  g++ test2.cpp
- 1426  vim test2.cpp
- 1427  g++ test2.cpp
- 1428  ./a.out
- 1429  vim test2.cpp
- 1430  g++ test2.cpp
- 1431  ./a.out
- 1432  vim test2.cpp
- 1433  g++ test2.cpp
- 1434  ./a.out
- 1435  vim test2.cpp
- 1436  g++ test2.cpp
- 1437  ./a.out
- 1438  vim test2.cpp
- 1439  g++ test2.cpp
- 1440  ./a.out
- 1441  vim test2.cpp
- 1442  g++ test2.cpp
- 1443  ./a.out
- 1444  vim test2.cpp
- 1445  g++ test2.cpp
- 1446  vim test2.cpp
- 1447  cp test2.cpp test.c
- 1448  gcc test.c
- 1449  ./a.out
- 1450  vim test2.cpp
- 1451  gcc test.c
- 1452  ./a.out
- 1453  gcc test.c
- 1454  vim test.c
- 1455  gcc test.c
- 1456  ./a.out
- 1457  vim test2.cpp
- 1458  g++ test2.cpp
- 1459  vim test2.cpp
- 1460  g++ test2.cpp
- 1461  ./a.out
- 1462  vim test2.cpp
- 1463  g++ test2.cpp
- 1464  ./a.out
- 1465  vim test2.cpp
- 1466  g++ test2.cpp
- 1467  ./a.out
- 1468  vim test2.cpp
- 1469  g++ test2.cpp
- 1470  ./a.out
- 1471  vim test2.cpp
- 1472  g++ test2.cpp
- 1473  ./a.out
- 1474  vim test2.cpp
- 1475  g++ test2.cpp
- 1476  ./a.out
- 1477  vim test2.cpp
- 1478  g++ test2.cpp
- 1479  ./a.out
- 1480  vim test2.cpp
- 1481  g++ test2.cpp
- 1482  ./a.out
- 1483  vim test2.cpp
- 1484  g++ test2.cpp
- 1485  ./a.out
- 1486  vim test2.cpp
- 1487  g++ test2.cpp
- 1488  ./a.out
- 1489  vim test2.cpp
- 1490  g++ test2.cpp
- 1491  ./a.out
- 1492  vim test2.cpp
- 1493  g++ test2.cpp
- 1494  ./a.out
- 1495  vim test2.cpp
- 1496  g++ test2.cpp
- 1497  ./a.out
- 1498  vim test2.cpp
- 1499  g++ test2.cpp
- 1500  ./a.out
- 1501  vim test2.cpp
- 1502  g++ test2.cpp
- 1503  htop
- 1504  top
- 1505  htop
- 1506  top
- 1507  vim a.cpp
- 1508  proc
- 1509  pgrep
- 1510  ps
- 1511  fg &1
- 1512  fg
- 1513  vim a.cpp
- 1514  g++ a.cpp
- 1515  vim a.cpp
- 1516  g++ a.cpp
- 1517  ./a.out
- 1518  vim a.cpp
- 1519  g++ a.cpp
- 1520  ./a.out
- 1521  vim a.cpp
- 1522  g++ a.cpp
- 1523  ./a.out
- 1524  cd code
- 1525  vim atcoder agc020.cpp
- 1526  rm atcoder agc020.cpp
- 1527  vim agc020.cpp
- 1528  g++ agc020.cpp
- 1529  vim agc020.cpp
- 1530  g++ agc020.cpp
- 1531  vim agc020.cpp
- 1532  g++ agc020.cpp
- 1533  ./a.out
- 1534  vim agc020.cpp
- 1535  g++ agc020.cpp
- 1536  vim agc020.cpp
- 1537  g++ agc020.cpp
- 1538  ./a.out
- 1539  vim agc020.cpp
- 1540  g++ agc020.cpp
- 1541  ./a.out
- 1542  vim agc020.cpp
- 1543  g++ agc020.cpp
- 1544  ./a.out
- 1545  ls -la
- 1546  cp .video_2019-10-06_03-50-41.mp4 q.mp4
- 1547  clear
- 1548  telnet gaia.cs.umass.edu 80
- 1549  vim test.html
- 1550  df
- 1551  free
- 1552  sudo apt-add-repository ppa:clipgrab-team/ppa
- 1553  sudo apt-get update
- 1554  sudo apt-get install clipgrab
- 1555  sudo apt-get install update
- 1556  sudo apt-get upgrade
- 1557  ls -la
- 1558  cp .video_2019-10-06_03-50-41.mp4 a.mp4
- 1559  cd The_Hindu
- 1560  ls -la
- 1561  cd Desktop
- 1562  ls -l
- 1563  cd aaaaaaaaaa
- 1564  ls -l
- 1565  g++ 5_6068919656901509302.cpp
- 1566  ./a.out
- 1567  g++ 5_6068919656901509302.cpp
- 1568  ./a.out
- 1569  cd Desktop
- 1570  ls-la
- 1571  ls -la
- 1572  cd aaaaaaaaaa
- 1573  ls -la
- 1574  g++ 2-1.cpp
- 1575  ./a.out
- 1576  g++ 2.cpp
- 1577  ./a.out
- 1578  cd Desktop
- 1579  cd aaaaaaaaaa
- 1580  g++ 2.cpp
- 1581  ./a.out
- 1582  g++ 2-1.cpp
- 1583  ./a.out
- 1584  g++ 2-1.cpp
- 1585  ./a.out
- 1586  g++ 2-1.cpp
- 1587  ./a.out
- 1588  g++ 2.cpp
- 1589  ./a.out
- 1590  cd Desktop
- 1591  ls
- 1592  cd NetExtender.Linux.8.6.801.x86_64
- 1593  ls
- 1594  cd netExtenderClient
- 1595  ls
- 1596  ./install
- 1597  sudo ./install
- 1598  cdcd
- 1599  cd
- 1600  apt-get install net-tools
- 1601  sudo apt-get install net-tools
- 1602  ps aux | grep -i apt
- 1603  sudo apt-get install net-tools
- 1604  sudo ./install
- 1605  cd /Desktop/NetExtender.Linux.8.6.801.x86_64/netExtenderClient
- 1606  cd Desktop
- 1607  ls
- 1608  cd NetExtender.Linux.8.6.801.x86_64
- 1609  ls
- 1610  cd netExtenderClient
- 1611  ls
- 1612  sudo ./install
- 1613  cd /
- 1614  ls
- 1615  cd
- 1616  ls
- 1617  cd /
- 1618  ls
- 1619  ls
- 1620  cd Desktop
- 1621  ls
- 1622  cd confd-basic-7.3.linux.x86_64
- 1623  ls
- 1624  ls -l
- 1625  sudo ./confd-basic-7.3.linux.x86_64.installer.bin
- 1626  sudo ./confd-basic-7.3.linux.x86_64.installer.bin 
- 1627  sudo ./confd-basic-7.3.linux.x86_64.installer.bin /
- 1628  man ./confd-basic-7.3.linux.x86_64.installer.bin 
- 1629  sudo ./confd-basic-7.3.linux.x86_64.installer.bin /Desktop
- 1630  apt update && apt -y install ca-certificates wget net-tools gnupg
- 1631  sudo apt update && apt -y install ca-certificates wget net-tools gnupg
- 1632  wget -qO - https://as-repository.openvpn.net/as-repo-public.gpg | apt-key add -
- 1633  echo "deb http://as-repository.openvpn.net/as/debian bionic main">/etc/apt/sources.list.d/openvpn-as-repo.list
- 1634  sudo wget -qO - https://as-repository.openvpn.net/as-repo-public.gpg | apt-key add -
- 1635  ls
- 1636  cd confd-basic-7.3
- 1637  ls
- 1638  cat confdrc
- 1639  ./confdrc
- 1640  sudo ./confdrc
- 1641  source ./confdrc
- 1642  ls
- 1643  man confd
- 1644  cd
- 1645  man confd
- 1646  ls
- 1647  cd Desktop
- 1648  ls
- 1649  cd confd-basic-7.3.linux.x86_64
- 1650  ls
- 1651  ./confd-basic-7.3.linux.x86_64.installer.bin ~/confd-basic-7.3
- 1652  cd
- 1653  ls
- 1654  cd confd-basic-7.3
- 1655  ls -la
- 1656  cat VERSION
- 1657  less CHANGES
- 1658  . ./confdrc
- 1659  cat confdrc
- 1660  echo $CONFD_DIR
- 1661  cat README
- 1662  cd doc
- 1663  ls -la
- 1664  cp confd_user_guide-7.3.pdf ~/Desktop/confD_user_guide.pdf
- 1665  cd ..
- 1666  ls
- 1667  cd examples.confd
- 1668  ls
- 1669  cat README
- 1670  cd ..
- 1671  ls
- 1672  cd etc
- 1673  ls
- 1674  cd confd
- 1675  ls
- 1676  less confd.conf
- 1677  cd ssh
- 1678  ls
- 1679  cat ssh_host_rsa_key
- 1680  cat ssh_host_rsa_key.pub
- 1681  cd ..
- 1682  ls
- 1683  less README
- 1684  cd confd-basic-7.3.linux.x86_64
- 1685  ls -l
- 1686  less KNOWN_ISSUES
- 1687  cd ..
- 1688  less KNOWN_ISSUES
- 1689  ls -l
- 1690  cd include
- 1691  ls -l
- 1692  cd ..
- 1693  ls -l
- 1694  cd bin
- 1695  ls -l
- 1696  cd confd
- 1697  less confd
- 1698  cd ..
- 1699  ls -l
- 1700  cd doc
- 1701  ls -l
- 1702  less confd_user_guide-7.3.pdf
- 1703  cd
- 1704  cd Desktop
- 1705  ls
- 1706  cd DEsktop
- 1707  ls
- 1708  cat abhishek_cv.pdf
- 1709  clear
- 1710  cd
- 1711  cd confd-7.3
- 1712  ls
- 1713  sys
- 1714  pts
- 1715  ps
- 1716  pid
- 1717  monitor
+ 1702  git config --global user.name "ak5h4y"
+ 1703  git config --global user.email "akshay.20698@gmail.com"
+ 1704  git config --global --list
+ 1705  ls -al ~/.ssh
+ 1706  cat known_hosts
+ 1707  cat ~/known_hosts
+ 1708  ssh-keygen -t rsa -b 4096 -C "akshay.20698@gmail.com"
+ 1709  eval "$(ssh-agent -s)"
+ 1710  ssh-add ~/.ssh/id_rsa
+ 1711  cd ~/ak5h4y/.ssh
+ 1712  ls -la
+ 1713  cd /home
+ 1714  la
+ 1715  ls
+ 1716  cd ak5h4y
+ 1717  cd .ssh
  1718  ls
- 1719  cd Desktop
- 1720  ls
- 1721  cd 'NETCONF and YANG'
- 1722  ls
- 1723  vim yang_rfc.txt
- 1724  cat yang_rfc.txt
- 1725  man confdc
- 1726  ls 
- 1727  cd confd-basic-7.3
- 1728  ls
- 1729  . ./confdrc
- 1730  cd
- 1731  man confdc
- 1732  vim test.yang
- 1733  man confdc
- 1734  confdc -c test.yang
- 1735  ls
- 1736  cat test.fxs
- 1737  clear
- 1738  vim test.yang
- 1739  confdc -c test.yang
- 1740  confd --get-info test.fxs
- 1741  confdc --get-info test.fxs
- 1742  vim test2.yang
- 1743  vim test.yang
- 1744  vim test2.yang
- 1745  confdc test2.yang
- 1746  confdc -c test2.yang
- 1747  vim test2.yang
- 1748  confdc -c test2.yang
- 1749  mv test2.yang ~/Desktop
- 1750  cd Desktop
- 1751  confdc -c test2.yang
- 1752  man confdc
- 1753  confdc -c --yang-path ../ test2.yang
- 1754  man confdc
- 1755  confdc -c --yangpath ../ test2.yang
- 1756  vim test2.yang
- 1757  confdc -c --yangpath ../ test2.yang
- 1758  cp test2.yang test3.yang
- 1759  ls
- 1760  vim test3.yang
- 1761  confdc -c --yangpath ../ test2.yang
- 1762  mv test3.yang ~/Downloads/test3.yang
- 1763  cd
- 1764  cd Downloads
- 1765  ls
- 1766  confdc -c --yangpath ../ test3.yang
- 1767  vim test3.yang
- 1768  confdc -c --yangpath ../ test3.yang
- 1769  confdc -c --yangpath ../ --yangpath ../Desktop test3.yang
- 1770  vim test3.yang
- 1771  confdc -c --yangpath ../ --yangpath ../Desktop test3.yang
- 1772  ls
- 1773  rm test3.fxs tes3.yang
- 1774  rm test3.fxs test3.yang
- 1775  rm  test3.yang
- 1776  ls
- 1777  cd ~/Desktop
- 1778  ls
- 1779  rm test2.fxs test2.yang
- 1780  ls
- 1781  cd
- 1782  ls
- 1783  rm test2.fxs test.yang test.fxs
- 1784  ls
- 1785  cd confd-basic-7.3
- 1786  s
- 1787  ls
- 1788  cd examples.confd
- 1789  ls
- 1790  less README
- 1791  cd intri
- 1792  cd intro
- 1793  ls
- 1794  less 0-README
- 1795  cd 1-2-3-start-query-model
- 1796  ls
- 1797  less 1-README_start
- 1798  cd
- 1799  cd ~/confd-basic-7.3/examples.confd/intro/1-2-3-start-query-model
- 1800  tail -f confd.log
- 1801  cd ~/confd-basic-7.3/examples.confd/intro/1-2-3-start-query-model
- 1802  ./dhcpd_conf
- 1803  cd ~/confd-basic-7.3/examples.confd/intro/1-2-3-start-query-model
- 1804  make cli-c
- 1805  make stop
+ 1719  cat id_rsa.pub
+ 1720  ssh -T git@github.com
+ 1721  cd
+ 1722  ssh -T git@github.com
+ 1723  vim a.cpp
+ 1724  ls
+ 1725  ls -a
+ 1726  cd .git
+ 1727  ls
+ 1728  git@github.com/ak5h4y/reponame
+ 1729  git@github.com/ak5h4y/Image_fusion
+ 1730  https://github.com/ak5h4y/Image_fusion
+ 1731  cd Desktop/MuskCult
+ 1732  touch README.md
+ 1733  vim README.md
+ 1734  cat README.md
+ 1735  git add README.md
+ 1736  git status
+ 1737  git commit -m "first commit"
+ 1738  git add .
+ 1739  git status
+ 1740  git commit -m "second commit"
+ 1741  git reset HEAD~1
+ 1742  git remote -v
+ 1743  git remote add https://gituhub.com/ak5h4y/newrepo
+ 1744  git remote add origin https://gituhub.com/ak5h4y/newrepo
+ 1745  git remote -v
+ 1746  git remote rm origin
+ 1747  git remote add origin https://gituhub.com/ak5h4y/newrepo.git
+ 1748  git remote -v
+ 1749  git push -u origin master
+ 1750  git remote add origin https://gituhub.com/ak5h4y/newrepo.git
+ 1751  git remote rm origin
+ 1752  git remote add origin https://gituhub.com/ak5h4y/newrepo
+ 1753  git remote -v
+ 1754  git push -u origin master
+ 1755  git remote rm origin
+ 1756  git remote add origin git@gituhub.com/ak5h4y/newrepo
+ 1757  git remote -v
+ 1758  git push -u origin master
+ 1759  git remote add origin git@gituhub.com:ak5h4y/newrepo
+ 1760  git remote rm origin
+ 1761  git remote add origin git@gituhub.com:ak5h4y/newrepo
+ 1762  git push -u origin master
+ 1763  git remote rm origin
+ 1764  git remote add origin git@gituhub.com:ak5h4y/newrepo.git
+ 1765  git push -u origin master
+ 1766  git init
+ 1767  git add README.md
+ 1768  git commit -m "first commit"
+ 1769  git remote add origin git@github.com:ak5h4y/newrepo.git
+ 1770  git push -u origin master
+ 1771  git remote add origin git@github.com:ak5h4y/newrepo.git
+ 1772  git push -u origin master
+ 1773  git add .
+ 1774  vim weee.cpp
+ 1775  git add weee.cpp
+ 1776  git status
+ 1777  git commit -m "second commit"
+ 1778  git remote add origin git@github.com:ak5h4y/newrepo.git
+ 1779  git push -u origin master
+ 1780  man git push
+ 1781  git remote -v
+ 1782  git diff
+ 1783  vim weee.cpp
+ 1784  git diff
+ 1785  git add weee.cpp
+ 1786  git commit -m "3rd commit"
+ 1787  git push -u origin master
+ 1788  git checkout -- weee.cpp
+ 1789  git diff
+ 1790  git add weee.cpp
+ 1791  git commit -m "4 commit"
+ 1792  cat weee.cpp
+ 1793  vim weee.cpp
+ 1794  git checkout --weee.cpp
+ 1795  git checkout -- weee.cpp
+ 1796  git diff
+ 1797  git log
+ 1798  cd 
+ 1799  cd /Desktop/newrepo
+ 1800  cd /Desktop/
+ 1801  mkdir newrepo
+ 1802  cd newrepo
+ 1803  ls
+ 1804  sudo mkdir newrepo
+ 1805  cd newrepo
  1806  ls
- 1807  cd confd-basic-7.3
- 1808  ls
- 1809  cd examples.confd
- 1810  ls
- 1811  cd intro
+ 1807  git clone https://github.com/Gothamv/MuskCult
+ 1808  sudo git clone https://github.com/Gothamv/MuskCult
+ 1809  ls
+ 1810  cd Muskcult
+ 1811  cd MuskCult
  1812  ls
- 1813  cat 0-README
- 1814  ls
- 1815  cd 1-2-3-start-query-model
- 1816  ls
- 1817  less 1-README_start
- 1818  make 
- 1819  make all
- 1820  make start
- 1821  make stop
- 1822  make clean
- 1823  sudo apt install git-all
- 1824  pts
- 1825  ps
- 1826  sudo apt install git-all
- 1827  ps aux | grep -i apt
- 1828  sudo apt install git-all
- 1829  man ps
- 1830  ps axu
- 1831  sudo apt install git-all
- 1832  ps aux | grep -i apt
- 1833  ps axu | grep -i apt
- 1834  ps | grep -i apt
- 1835  ps -e
- 1836  git
- 1837  man git
- 1838  git config --global user.name "ak5h4y"
- 1839  git config --global user.email "akshay.20698@gmail.com"
- 1840  git config --global --list
- 1841  ls -al ~/.ssh
- 1842  cat known_hosts
- 1843  cat ~/known_hosts
- 1844  ssh-keygen -t rsa -b 4096 -C "akshay.20698@gmail.com"
- 1845  eval "$(ssh-agent -s)"
- 1846  ssh-add ~/.ssh/id_rsa
- 1847  cd ~/ak5h4y/.ssh
- 1848  ls -la
- 1849  cd /home
- 1850  la
- 1851  ls
- 1852  cd ak5h4y
- 1853  cd .ssh
- 1854  ls
- 1855  cat id_rsa.pub
- 1856  ssh -T git@github.com
- 1857  cd
- 1858  ssh -T git@github.com
- 1859  vim a.cpp
- 1860  ls
- 1861  ls -a
- 1862  cd .git
+ 1813  git add .
+ 1814  sudo git add .
+ 1815  git status
+ 1816  git remote rm origin
+ 1817  sudo git remote rm origin
+ 1818  sudo git add .
+ 1819  git status
+ 1820  git init
+ 1821  sudo git init
+ 1822  git status
+ 1823  git add .
+ 1824  sudo git add .
+ 1825  git status
+ 1826  git commit -m "1st commit"
+ 1827  sudo git commit -m "1st commit"
+ 1828  git diff
+ 1829  cd origin
+ 1830  git remote add origin git@github.com:ak5h4y/newrepo.git
+ 1831  sudo git remote add origin git@github.com:ak5h4y/newrepo.git
+ 1832  git push -u origin master
+ 1833  git pull git@github.com:ak5h4y/newrepo.git
+ 1834  sudo git pull git@github.com:ak5h4y/newrepo.git
+ 1835  git status
+ 1836  sudo su
+ 1837  cd Desktop
+ 1838  mkdir newrepo
+ 1839  cd newrepo
+ 1840  ls
+ 1841  git clone https://github.com/ak5h4y/newrepo
+ 1842  ls
+ 1843  cd newrepo
+ 1844  ls
+ 1845  git init
+ 1846  vim ass.cpp
+ 1847  git status
+ 1848  git add .
+ 1849  git status
+ 1850  git log
+ 1851  git commit -m "final commit"
+ 1852  git add origin https://github.com/ak5h4y/newrepo
+ 1853  git add origin git@github.com:ak5h4y/newrepo
+ 1854  git rm origin
+ 1855  git remote add origin git@github.com:ak5h4y/newrepo
+ 1856  git remote rm origin 
+ 1857  git remote add origin git@github.com:ak5h4y/newrepo
+ 1858  git push origin master
+ 1859  git push 
+ 1860  git push -u origin master
+ 1861  git log
+ 1862  git show da932d1b90c35282
  1863  ls
- 1864  git@github.com/ak5h4y/reponame
- 1865  git@github.com/ak5h4y/Image_fusion
- 1866  https://github.com/ak5h4y/Image_fusion
- 1867  cd Desktop/MuskCult
- 1868  touch README.md
- 1869  vim README.md
- 1870  cat README.md
- 1871  git add README.md
+ 1864  cd Desktop
+ 1865  ls
+ 1866  cd newrepo
+ 1867  ls
+ 1868  cd newrepo
+ 1869  ls
+ 1870  git status
+ 1871  cd
  1872  git status
- 1873  git commit -m "first commit"
- 1874  git add .
- 1875  git status
- 1876  git commit -m "second commit"
- 1877  git reset HEAD~1
- 1878  git remote -v
- 1879  git remote add https://gituhub.com/ak5h4y/newrepo
- 1880  git remote add origin https://gituhub.com/ak5h4y/newrepo
- 1881  git remote -v
- 1882  git remote rm origin
- 1883  git remote add origin https://gituhub.com/ak5h4y/newrepo.git
- 1884  git remote -v
- 1885  git push -u origin master
- 1886  git remote add origin https://gituhub.com/ak5h4y/newrepo.git
- 1887  git remote rm origin
- 1888  git remote add origin https://gituhub.com/ak5h4y/newrepo
- 1889  git remote -v
- 1890  git push -u origin master
- 1891  git remote rm origin
- 1892  git remote add origin git@gituhub.com/ak5h4y/newrepo
- 1893  git remote -v
- 1894  git push -u origin master
- 1895  git remote add origin git@gituhub.com:ak5h4y/newrepo
- 1896  git remote rm origin
- 1897  git remote add origin git@gituhub.com:ak5h4y/newrepo
- 1898  git push -u origin master
- 1899  git remote rm origin
- 1900  git remote add origin git@gituhub.com:ak5h4y/newrepo.git
- 1901  git push -u origin master
- 1902  git init
- 1903  git add README.md
- 1904  git commit -m "first commit"
- 1905  git remote add origin git@github.com:ak5h4y/newrepo.git
- 1906  git push -u origin master
- 1907  git remote add origin git@github.com:ak5h4y/newrepo.git
- 1908  git push -u origin master
- 1909  git add .
- 1910  vim weee.cpp
- 1911  git add weee.cpp
- 1912  git status
- 1913  git commit -m "second commit"
- 1914  git remote add origin git@github.com:ak5h4y/newrepo.git
- 1915  git push -u origin master
- 1916  man git push
- 1917  git remote -v
- 1918  git diff
- 1919  vim weee.cpp
- 1920  git diff
- 1921  git add weee.cpp
- 1922  git commit -m "3rd commit"
- 1923  git push -u origin master
- 1924  git checkout -- weee.cpp
- 1925  git diff
- 1926  git add weee.cpp
- 1927  git commit -m "4 commit"
- 1928  cat weee.cpp
- 1929  vim weee.cpp
- 1930  git checkout --weee.cpp
- 1931  git checkout -- weee.cpp
- 1932  git diff
- 1933  git log
- 1934  cd 
- 1935  cd /Desktop/newrepo
- 1936  cd /Desktop/
- 1937  mkdir newrepo
- 1938  cd newrepo
- 1939  ls
- 1940  sudo mkdir newrepo
- 1941  cd newrepo
- 1942  ls
- 1943  git clone https://github.com/Gothamv/MuskCult
- 1944  sudo git clone https://github.com/Gothamv/MuskCult
- 1945  ls
- 1946  cd Muskcult
- 1947  cd MuskCult
- 1948  ls
- 1949  git add .
- 1950  sudo git add .
- 1951  git status
- 1952  git remote rm origin
- 1953  sudo git remote rm origin
- 1954  sudo git add .
- 1955  git status
- 1956  git init
- 1957  sudo git init
- 1958  git status
- 1959  git add .
- 1960  sudo git add .
- 1961  git status
- 1962  git commit -m "1st commit"
- 1963  sudo git commit -m "1st commit"
- 1964  git diff
- 1965  cd origin
- 1966  git remote add origin git@github.com:ak5h4y/newrepo.git
- 1967  sudo git remote add origin git@github.com:ak5h4y/newrepo.git
- 1968  git push -u origin master
- 1969  git pull git@github.com:ak5h4y/newrepo.git
- 1970  sudo git pull git@github.com:ak5h4y/newrepo.git
- 1971  git status
- 1972  sudo su
- 1973  cd Desktop
- 1974  mkdir newrepo
- 1975  cd newrepo
- 1976  ls
- 1977  git clone https://github.com/ak5h4y/newrepo
- 1978  ls
- 1979  cd newrepo
- 1980  ls
- 1981  git init
- 1982  vim ass.cpp
+ 1873  cd ~/Desktop/newrepo/newrepo
+ 1874  ls
+ 1875  ls -la
+ 1876  cd .git
+ 1877  ls
+ 1878  cd branches
+ 1879  ls
+ 1880  ls -la
+ 1881  cd ..
+ 1882  cat config
+ 1883  ls -la
+ 1884  cd logs
+ 1885  ls -la
+ 1886  cat HEAD
+ 1887  cd refs
+ 1888  ls -ls
+ 1889  cd ../../../
+ 1890  ls
+ 1891  git log --oneline
+ 1892  git log --grep "3rd"
+ 1893  vim .gitignore
+ 1894  git add .
+ 1895  git commit -m "ignorable files"
+ 1896  touch test1.txt test2.css test3.html
+ 1897  git status
+ 1898  git add .
+ 1899  git status
+ 1900  git branch
+ 1901  git branch newbranch
+ 1902  git checkout newbranch
+ 1903  git branch
+ 1904  git status
+ 1905  git log --oneline
+ 1906  git branch
+ 1907  git checkout master
+ 1908  ls
+ 1909  git merge newbranch
+ 1910  git checkout newbranch
+ 1911  ls
+ 1912  vim a.cpp
+ 1913  git add .
+ 1914  git commit -m "changed a.cpp in newbranch"
+ 1915  git status
+ 1916  git log --oneline
+ 1917  git show dc0bf84
+ 1918  git checkout master
+ 1919  git log --oneline
+ 1920  git merge newbranch
+ 1921  git log --oneline
+ 1922  git add origin https://github.com/ak5h4y/newrepo
+ 1923  git remote add origin https://github.com/ak5h4y/newrepo
+ 1924  git remote
+ 1925  git remote | cat origin
+ 1926  git remote origin
+ 1927  git remote --add hub https://github.com/ak5h4y/newrepo
+ 1928  git remote add hub https://github.com/ak5h4y/newrepo
+ 1929  git branch
+ 1930  git push hub master
+ 1931  git remote remove hub
+ 1932  git remote add hub https://github.com/ak5h4y/newrepo
+ 1933  git remote remove hub
+ 1934  git remote add hub git@github.com:ak5h4y/newrepo
+ 1935  git push hub master
+ 1936  git branch
+ 1937  vim newfile
+ 1938  git stash newfile
+ 1939  git status
+ 1940  git stash
+ 1941  ls
+ 1942  git status
+ 1943  git stash
+ 1944  git add.
+ 1945  git add .
+ 1946  git commit -m "stash trial"
+ 1947  git stash
+ 1948  git status
+ 1949  vim newfile
+ 1950  git status
+ 1951  git stash
+ 1952  git stash list
+ 1953  ls
+ 1954  cat newfile
+ 1955  git stash apply stash@{0}
+ 1956  cat newfile
+ 1957  git stash list
+ 1958  git stash clear
+ 1959  git stash list
+ 1960  git reset
+ 1961  git log
+ 1962  vim resetfile
+ 1963  git add .
+ 1964  git reset resetfile
+ 1965  git status
+ 1966  git add newfile
+ 1967  git commit -m "modified newfile"
+ 1968  git status
+ 1969  git add resetfile
+ 1970  git log
+ 1971  git log -1
+ 1972  git reset resetfile
+ 1973  git status
+ 1974  git add resetfile
+ 1975  git commit -m "qqqq"
+ 1976  git status
+ 1977  git log -1
+ 1978  git reset resetfile
+ 1979  git log -1
+ 1980  git status
+ 1981  touch 1.txt 2.txt 3.txt
+ 1982  git add .
  1983  git status
- 1984  git add .
+ 1984  git reset 1.txt
  1985  git status
- 1986  git log
- 1987  git commit -m "final commit"
- 1988  git add origin https://github.com/ak5h4y/newrepo
- 1989  git add origin git@github.com:ak5h4y/newrepo
- 1990  git rm origin
- 1991  git remote add origin git@github.com:ak5h4y/newrepo
- 1992  git remote rm origin 
- 1993  git remote add origin git@github.com:ak5h4y/newrepo
- 1994  git push origin master
- 1995  git push 
- 1996  git push -u origin master
- 1997  git log
- 1998  git show da932d1b90c35282
- 1999  ls
- 2000  cd Desktop
+ 1986  git reset .
+ 1987  git status
+ 1988  git add .
+ 1989  git reset . --hard
+ 1990  git reset --hard
+ 1991  history
+ 1992  man history
+ 1993  touch commands
+ 1994  mv commands commands.txt
+ 1995  man history > commands.txt
+ 1996  leaa commands.txt
+ 1997  less commands.txt
+ 1998  history > commands.txt
+ 1999  less commands.txt
+ 2000  cd ~/Desktop/newrepo/newrepo
  2001  ls
- 2002  cd newrepo
- 2003  ls
- 2004  cd newrepo
- 2005  ls
- 2006  git status
- 2007  cd
- 2008  git status
- 2009  cd ~/Desktop/newrepo/newrepo
- 2010  ls
- 2011  ls -la
- 2012  cd .git
- 2013  ls
- 2014  cd branches
- 2015  ls
- 2016  ls -la
- 2017  cd ..
- 2018  cat config
- 2019  ls -la
- 2020  cd logs
- 2021  ls -la
- 2022  cat HEAD
- 2023  cd refs
- 2024  ls -ls
- 2025  cd ../../../
- 2026  ls
- 2027  git log --oneline
- 2028  git log --grep "3rd"
- 2029  vim .gitignore
- 2030  git add .
- 2031  git commit -m "ignorable files"
- 2032  touch test1.txt test2.css test3.html
- 2033  git status
- 2034  git add .
- 2035  git status
- 2036  git branch
- 2037  git branch newbranch
- 2038  git checkout newbranch
- 2039  git branch
- 2040  git status
- 2041  git log --oneline
- 2042  git branch
- 2043  git checkout master
- 2044  ls
- 2045  git merge newbranch
- 2046  git checkout newbranch
- 2047  ls
- 2048  vim a.cpp
- 2049  git add .
- 2050  git commit -m "changed a.cpp in newbranch"
- 2051  git status
- 2052  git log --oneline
- 2053  git show dc0bf84
- 2054  git checkout master
- 2055  git log --oneline
- 2056  git merge newbranch
- 2057  git log --oneline
- 2058  git add origin https://github.com/ak5h4y/newrepo
- 2059  git remote add origin https://github.com/ak5h4y/newrepo
- 2060  git remote
- 2061  git remote | cat origin
- 2062  git remote origin
- 2063  git remote --add hub https://github.com/ak5h4y/newrepo
- 2064  git remote add hub https://github.com/ak5h4y/newrepo
- 2065  git branch
- 2066  git push hub master
- 2067  git remote remove hub
- 2068  git remote add hub https://github.com/ak5h4y/newrepo
- 2069  git remote remove hub
- 2070  git remote add hub git@github.com:ak5h4y/newrepo
- 2071  git push hub master
- 2072  git branch
- 2073  vim newfile
- 2074  git stash newfile
- 2075  git status
- 2076  git stash
- 2077  ls
- 2078  git status
- 2079  git stash
- 2080  git add.
- 2081  git add .
- 2082  git commit -m "stash trial"
- 2083  git stash
- 2084  git status
- 2085  vim newfile
- 2086  git status
- 2087  git stash
- 2088  git stash list
- 2089  ls
- 2090  cat newfile
- 2091  git stash apply stash@{0}
- 2092  cat newfile
- 2093  git stash list
- 2094  git stash clear
- 2095  git stash list
- 2096  git reset
- 2097  git log
- 2098  vim resetfile
- 2099  git add .
- 2100  git reset resetfile
- 2101  git status
- 2102  git add newfile
- 2103  git commit -m "modified newfile"
- 2104  git status
- 2105  git add resetfile
- 2106  git log
- 2107  git log -1
- 2108  git reset resetfile
- 2109  git status
- 2110  git add resetfile
- 2111  git commit -m "qqqq"
- 2112  git status
- 2113  git log -1
- 2114  git reset resetfile
- 2115  git log -1
- 2116  git status
- 2117  touch 1.txt 2.txt 3.txt
- 2118  git add .
- 2119  git status
- 2120  git reset 1.txt
- 2121  git status
- 2122  git reset .
- 2123  git status
- 2124  git add .
- 2125  git reset . --hard
- 2126  git reset --hard
- 2127  history
- 2128  man history
- 2129  touch commands
- 2130  mv commands commands.txt
- 2131  man history > commands.txt
- 2132  leaa commands.txt
- 2133  less commands.txt
- 2134  history > commands.txt
+ 2002  git clean -n
+ 2003  cat commands.tx
+ 2004  cat commands.txt
+ 2005  git add .
+ 2006  git commit -m "all commands"
+ 2007  git clean  -n
+ 2008  echo "I am for testing git revert command" > vim abc.txt
+ 2009  cat abc.txt
+ 2010  touch abc.txt
+ 2011  echo "I am for testing git revert command" > abc.txt
+ 2012  cat abc.txt
+ 2013  git add .
+ 2014  git commit - m "file to be revert"
+ 2015  git log -1
+ 2016  git revert 808f57b3c
+ 2017  git status
+ 2018  git add .
+ 2019  git commit "all commit"
+ 2020  git commit -m "all commit"
+ 2021  git status
+ 2022  git log -1
+ 2023  git revert 6d391fbab18a
+ 2024  git status
+ 2025  git log -1
+ 2026  git status
+ 2027  touch x y z er tr
+ 2028  git status
+ 2029  git clean -n
+ 2030  git clean -f
+ 2031  git status
+ 2032  git tag -a important -m "oooooooo" de175ec24396
+ 2033  git log -1
+ 2034  git tag
+ 2035  git show important
+ 2036  git log --oneline
+ 2037  git tag -a important -m "oooooooo" 3857fb6
+ 2038  git tag -d important 
+ 2039  git log --oneline
+ 2040  git push origin master
+ 2041  git remote add origin git@github.com:ak5h4y/newrepo
+ 2042  git remote add sss git@github.com:ak5h4y/newrepo
+ 2043  git log --oneline
+ 2044  git pull origin master
+ 2045  git log --oneline
+ 2046  git push origin master
+ 2047  cat commands.txt
+ 2048  history
+ 2049  history > commands.txt
